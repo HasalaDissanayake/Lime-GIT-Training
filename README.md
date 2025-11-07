@@ -1,3 +1,3 @@
 # Lime-GIT-Training
 
-## GIT Session Task
+GIT Session Task
