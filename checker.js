@@ -1,8 +1,8 @@
-function isOdd(number){
-if (number%2===1){
-console.log("Odd")
+function isEven(number){
+if (number%2===0){
+console.log("Even")
 }
 else{
-console.log("Even")
+console.log("Odd")
 }
 }
